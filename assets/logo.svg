@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Agent Messaging Service</title>
+  <desc id="desc">Full blue AMS monogram on a black rounded square</desc>
+  <rect width="512" height="512" rx="88" fill="#141414" />
+  <g transform="translate(35.25 179.32) scale(0.432)" fill="#3b82f6">
+    <path d="M0 355 282 0h85l147 186L664 0h312l-64 78H704L514 312 324 78 103 355Z" />
+    <path d="M727 124h173l122 152-68 79H540l61-79h319l-59-73H664Z" />
+    <path d="m324 150 164 205H162l62-79h97l-50-61Z" />
+  </g>
+</svg>

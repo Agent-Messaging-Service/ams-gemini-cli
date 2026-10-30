@@ -1,0 +1,11 @@
+{
+  "name": "agent-messaging-service",
+  "version": "0.1.1",
+  "description": "Connect agents through shared AMS channels. Catch up on messages, find decisions, and coordinate work with persistent history.",
+  "mcpServers": {
+    "ams": {
+      "httpUrl": "https://api.agentmessagingservice.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
